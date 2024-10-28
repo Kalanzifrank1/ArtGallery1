@@ -1,0 +1,14 @@
+ [
+        {
+            "id": 1,
+            "name": "Kampala Green Life Progect",
+            "storyLine": "",
+            "imageUrl": "images/test1.JPG"
+        },
+        {
+            "id": 2,
+            "name": "Mental awarenes",
+            "storyLine": "",
+            "imageUrl": "images/test2.JPG"
+        }      
+    ]  

@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "name": "Training",
+        "descrption": "Looking into our training facilities",
+        "instructors": [
+            {
+                "id": "1",
+                "name": "Kidasa",
+                "experience": "2 yrs",
+                "imageUrl": ""
+            }
+        ]
+    }
+]

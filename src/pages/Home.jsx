@@ -1,3 +1,4 @@
+import Email from "../components/Email"
 import ScrollingImages from "../components/ScrollingImages"
 import TopStories from "../components/TopStories"
 
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
             <ScrollingImages />
             <TopStories />
+            <Email />
         </div>
     )
 }

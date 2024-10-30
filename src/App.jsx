@@ -4,7 +4,7 @@ import About from "./pages/About"
 import Services from "./pages/Services"
 import Stories from "./pages/Stories"
 import Projects from "./pages/Projects"
-import LayOutM from "./Layout/LayoutM"
+import LayOutM from "./LayOut/LayOutM"
 
 function App() {
   

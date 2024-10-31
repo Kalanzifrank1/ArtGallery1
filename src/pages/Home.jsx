@@ -1,3 +1,4 @@
+import Collection from "../components/collection"
 import Email from "../components/Email"
 import ScrollingImages from "../components/ScrollingImages"
 import TopStories from "../components/TopStories"
@@ -5,10 +6,15 @@ import TopStories from "../components/TopStories"
 const Home = () => {
 
     return(
-        <div>
-            <ScrollingImages />
-            <TopStories />
-            <Email />
+        <div className="">
+            <div>   
+                    <ScrollingImages />
+                    <Collection />
+                    <TopStories />
+                    <Email />
+                 
+            </div>
+            
         </div>
     )
 }

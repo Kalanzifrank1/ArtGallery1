@@ -17,7 +17,7 @@ const TopStories = () => {
         {stories.map(story => (
             <div key={story.id} className="flex flex-row gap-4">
                
-                <img src={story.imageUrl} className="w-48 h-48 object-cover" />
+                <img src={story.imageUrl} className="w-48 h-48 object-cover" width={500} height={500}/>
                 <div>
                   <h2>{story.name}</h2>
                   <p>{story.storyLine}</p>

@@ -3,12 +3,12 @@
             "id": 1,
             "name": "Kampala Green Life Progect",
             "storyLine": "the world being an interesting place think about everything around you",
-            "imageUrl": "images/test1.JPG"
+            "imageUrl": "images/test1.jpg"
         },
         {
             "id": 2,
             "name": "Mental awarenes",
             "storyLine": "the world being an interesting place think about everything around you",
-            "imageUrl": "images/test2.JPG"
+            "imageUrl": "images/test2.jpg"
         }      
     ]  

@@ -1,0 +1,9 @@
+[
+    {"id": 1, "image": "images/collectionImages/col1.JPG"},
+    {"id": 2, "image": "images/collectionImages/col2.jpg"},
+    {"id": 3, "image": "images/collectionImages/col3.jpg"},
+    {"id": 4, "image": "images/collectionImages/col4.jpg"},
+    {"id": 5, "image": "images/collectionImages/col5.jpg"},
+    {"id": 5, "image": "images/collectionImages/col6.jpg"},
+    {"id": 6, "image": "images/collectionImages/col7.jpg"}
+]

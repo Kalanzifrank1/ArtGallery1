@@ -1,4 +1,4 @@
-import Collection from "../omponents/Collection"
+import Collection from "../components/collection"
 import Email from "../components/Email"
 import ScrollingImages from "../components/ScrollingImages"
 import TopStories from "../components/TopStories"

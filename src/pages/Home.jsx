@@ -7,11 +7,11 @@ const Home = () => {
 
     return(
         <div className="">
-            <div>   
-                    <ScrollingImages />
-                    <Collection />
-                    <TopStories />
-                    <Email />
+            <div className="bg-slate-200">   
+                <ScrollingImages />
+                <Collection />
+                <TopStories />
+                <Email />
                  
             </div>
             

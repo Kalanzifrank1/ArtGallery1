@@ -1,9 +1,10 @@
+import Resmi from "../components/Resmi"
 
 
 const About = () => {
   return (
     <div>
-      <p>about page</p>
+      <Resmi />
     </div>
   )
 }

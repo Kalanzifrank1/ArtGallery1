@@ -1,9 +1,73 @@
 [
-    {"id": 1, "image": "images/collectionImages/col1.JPG"},
-    {"id": 2, "image": "images/collectionImages/col2.jpg"},
-    {"id": 3, "image": "images/collectionImages/col3.jpg"},
-    {"id": 4, "image": "images/collectionImages/col4.jpg"},
-    {"id": 5, "image": "images/collectionImages/col5.jpg"},
-    {"id": 5, "image": "images/collectionImages/col6.jpg"},
-    {"id": 6, "image": "images/collectionImages/col7.jpg"}
+    {"id": 1,
+     "image": "images/collectionImages/col1.JPG",
+     "title": "Agartha",
+     "medium": "Charcoal on Paper",
+     "size": "A3"
+
+    },
+    {"id": 2, 
+    "image": "images/collectionImages/col2.jpg",
+    "title": "Eloquent",
+     "medium": "Carcoal on paper",
+     "size": "A3"
+    },
+    {"id": 3,
+     "image": "images/collectionImages/col3.jpg",
+     "title": "",
+     "medium": "",
+     "size": ""
+    },
+    {"id": 4,
+     "image": "images/collectionImages/col4.jpg",
+     "title": "",
+     "medium": "",
+     "size": ""
+    },
+    {"id": 5,
+     "image": "images/collectionImages/col5.jpg",
+     "title": "",
+     "medium": "",
+     "size": ""
+    },
+    {"id": 6,
+     "image": "images/collectionImages/col6.jpg",
+     "title": "Grce Life 1",
+     "medium": "Oil & Acryllic",
+     "size": "136cm*148cm"
+    },
+    {"id": 7,
+     "image": "images/collectionImages/col7.jpg",
+     "title": "Across The World",
+     "medium": "Oil & Acryllic",
+     "size": ""
+    },
+    {
+        "id": "8",
+        "image": "images/collectionImages/gap8.jpg"
+    },
+    {
+        "id": "9",
+        "image": "images/collectionImages/gap9.jpg"
+    },
+    {
+        "id": "10",
+        "image": "images/collectionImages/gap10.jpg"
+    },
+    {
+        "id": "11",
+        "image": "images/collectionImages/gap11.jpg"
+    },
+    {
+        "id": "12",
+        "image": "images/collectionImages/gap12.jpg"
+    },
+    {
+        "id": "13",
+        "image": "images/collectionImages/gap13.jpg"
+    },
+    {
+        "id": "14",
+        "image": "images/collectionImages/test14.jpg"
+    }
 ]

@@ -28,10 +28,10 @@ const Email = () => {
         setValidationErrors(errors)
 
         if (Object.keys(errors).length === 0){
-            const serviceId = 'Your-service-id' //replace with emailjs service id
-            const templateId = 'your-template-id'
+            const serviceId = import.meta.env.VITE_SERVICEID //replace with emailjs service id
+            const templateId = import.meta.env.VITE_TEMPLATEID
 
-            const publicKey = 'yourpublic-key'
+            const publicKey = import.meta.env.VITE_PUBLICKEY
             const params = {
                 from_name: email.name,
                 reply_to: email.Email,

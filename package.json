@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "artgallery": "file:",
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.6",
     "emailjs-com": "^3.2.0",
